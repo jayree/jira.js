@@ -1,6 +1,6 @@
 import { AxiosRequestConfig } from 'axios';
 import { Config } from '../config';
-import * as jwt from 'atlassian-jwt';
+import * as jwt from '../vendors/atlassian-jwt';
 import * as url from 'url';
 
 export const getAuthentication = (config: Config, request: AxiosRequestConfig): string | undefined => {

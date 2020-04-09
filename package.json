@@ -41,7 +41,6 @@
     "typescript": "^3.8.3"
   },
   "dependencies": {
-    "atlassian-jwt": "https://github.com/MrRefactoring/atlassian-jwt.git#dist",
     "axios": "^0.19.2"
   }
 }
