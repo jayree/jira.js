@@ -6,7 +6,8 @@
       "ES2015"
     ],
     "declaration": true,
-    "strict": true
+    "strict": true,
+    "allowJs": true
   },
   "exclude": [
     "./tests",
