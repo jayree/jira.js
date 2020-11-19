@@ -7,7 +7,8 @@
       "DOM"
     ],
     "declaration": true,
-    "strict": true
+    "strict": true,
+    "esModuleInterop": true
   },
   "exclude": [
     "./tests",
